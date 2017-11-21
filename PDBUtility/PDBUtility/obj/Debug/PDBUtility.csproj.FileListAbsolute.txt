@@ -1,0 +1,5 @@
+C:\Users\ragavendra.u\Documents\Visual Studio 2010\Projects\PDBUtility\PDBUtility\bin\Debug\PDBUtility.dll
+C:\Users\ragavendra.u\Documents\Visual Studio 2010\Projects\PDBUtility\PDBUtility\bin\Debug\PDBUtility.pdb
+C:\Users\ragavendra.u\Documents\Visual Studio 2010\Projects\PDBUtility\PDBUtility\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ragavendra.u\Documents\Visual Studio 2010\Projects\PDBUtility\PDBUtility\obj\Debug\PDBUtility.dll
+C:\Users\ragavendra.u\Documents\Visual Studio 2010\Projects\PDBUtility\PDBUtility\obj\Debug\PDBUtility.pdb
